@@ -8,4 +8,5 @@ At this time of writing, the layout is pretty plain and the last row's width nee
 
   * HTML
   * CSS
+  * CSS Grid
   * Bootstrap 4
