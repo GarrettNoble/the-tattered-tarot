@@ -8,3 +8,7 @@ h1 {
     font-family: 'Inknut Antiqua', serif;
     text-align: center;
 }
+
+.card-text {
+    padding: 1.5rem;
+}
